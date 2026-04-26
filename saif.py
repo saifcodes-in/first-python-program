@@ -1,8 +1,5 @@
-# Simple Calculator Program
-
 print("Simple Calculator")
 
-# user se input lena
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
